@@ -1,0 +1,14 @@
+ppl_region_code,region_value,database_region
+A,Asia,Group
+D,U.S.,Country
+E,Western Europe,Custom Region
+F,Africa,Group
+G,Global,Group
+L,Latin America,Custom Region
+M,MENA,Custom Region
+N,"U.S.,Canada",Country
+O,CEE,Custom Region
+R,Emerging Markets,Custom Region
+X,Global (ex-USA),Custom Region
+Y,APAC,Custom Region
+Z,,N/A

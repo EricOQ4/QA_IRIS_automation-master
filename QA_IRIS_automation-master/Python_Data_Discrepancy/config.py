@@ -1,0 +1,3 @@
+security_id = '57b927debe1c33ae235ab315'
+api_url = 'https://api-dev.q4desktop.com/'
+auth_token = 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1ZDZmYjNiZjk4OTk2MzAwMDQzZDZhOTYiLCJfb3JnYW5pemF0aW9uIjp7Il9pZCI6IjVhMmFhMWQ4M2MwYTNjMDAwNDdiNWZlOCJ9LCJ1c2VyIjoia2V2aW53QHE0aW5jLmNvbSIsImlhdCI6MTU3NTA0MzE3OSwiZXhwIjoxNTc1MTI5NTc5fQ.R7MTQdDBcf7FGgsGWlSRa0le3RHh-2IoSESlrSBKOi8'

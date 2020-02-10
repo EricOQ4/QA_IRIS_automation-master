@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+        <suite name="Data Validation Suite" parallel="classes" thread-count="15" data-provider-thread-count="15">
+    <test name="CheckStockdata">
+        <classes>
+            <class name ="specs.euroApi.analysis.EuroInvestorDataValidation" />
+        </classes>
+    </test>
+</suite>

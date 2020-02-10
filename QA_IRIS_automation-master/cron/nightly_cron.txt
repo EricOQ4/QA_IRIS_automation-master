@@ -1,0 +1,1 @@
+30 0 * * * /bin/bash /trigger_nightly_build.sh q4mobile/q4testsuite master 5439aa08dd79b73f2f13535f252c0d69dbb31edb DEVELOP NightRun 2>&1 | /usr/bin/logger

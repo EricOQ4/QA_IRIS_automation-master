@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/RequestServiceExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SecurityLookupExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/IntradayTickExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleBlockingRequestExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/LocalPageSubscriptionExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleRefDataOverrideExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/blpapi-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/EntitlementsVerificationExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleIntradayBarExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/ContributionsMktdataExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/IntradayBarExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/EntitlementsVerificationSubscriptionExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleRefDataExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/RefDataExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/CorrelationExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleHistoryExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/ServiceSchemaDump-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleIntradayTickExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/LocalMktdataSubscriptionExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/PagePublisherExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SecurityEntitlementsExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleFieldSearchExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/UserEntitlementsExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleCategorizedFieldSearchExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SubscriptionWithEventHandlerExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleSubscriptionExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/ContributionsPageExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/MktdataBroadcastPublisherExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/PageBroadcastPublisherExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleSubscriptionIntervalExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/GenerateTokenExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/MktdataPublisherExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/UserModeExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleFieldListExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/blpapi-examples-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/NameEnumerationExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SimpleFieldInfoExample-3.8.8-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QA_IRIS_automation-master/lib/SubscriptionCorrelationExample-3.8.8-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
